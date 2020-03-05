@@ -14,6 +14,5 @@ Language: MATLAB
 Language: MATLAB
 
 ## Project#4 - Echo Cancellation
-MATLAB code was given that implements the pipeline of the Non Local Means algorithm for image denoising. Our task was to improve its performance using CUDA.
 
 Language: MATLAB
